@@ -15,7 +15,8 @@ A practice session requires the following:
 - ability to record the session, and share it for peer or instructor review
 - ability to record and track progress
 
-See [here](./functionality.md) for suggested functionality.
+See [here](./docs/functionality.md) for suggested functionality,
+as well as more [detailed functionality](./docs/requirements.md) and [workflows](./docs/workflows.md).
 
 ## Background
 
